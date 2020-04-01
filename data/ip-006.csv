@@ -1,0 +1,71 @@
+6.0.0.0,6.5.255.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.6.0.0,6.6.5.255,NA,US,California,"Los Angeles",34.0522,-118.244
+6.6.6.0,6.6.6.255,NA,US,"New Jersey",Newark,40.7357,-74.1724
+6.6.7.0,6.6.7.255,NA,US,California,"Los Angeles",34.0522,-118.244
+6.6.8.0,6.6.255.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.7.0.0,6.7.0.255,NA,US,California,"Los Angeles",34.0522,-118.244
+6.7.1.0,6.16.191.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.16.192.0,6.16.193.255,NA,US,Hawaii,Honolulu,21.3069,-157.858
+6.16.194.0,6.16.197.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.16.198.0,6.16.201.255,AF,LS,Mokhotlong,Mokoeng,-29.2441,28.9019
+6.16.202.0,6.41.127.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.41.128.0,6.41.129.255,NA,US,Texas,Dallas,32.7767,-96.797
+6.41.130.0,6.42.63.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.42.64.0,6.42.65.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.42.66.0,6.42.120.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.42.121.0,6.42.121.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.42.122.0,6.42.122.255,NA,US,"New York","New York",40.7056,-73.978
+6.42.123.0,6.64.3.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.64.4.0,6.64.4.255,EU,DE,Hesse,"Frankfurt am Main",50.1109,8.68213
+6.64.5.0,6.64.103.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.64.104.0,6.64.104.255,NA,US,Virginia,Sterling,39.0067,-77.4291
+6.64.105.0,6.64.119.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.64.120.0,6.64.121.255,NA,US,Virginia,Sterling,39.0067,-77.4291
+6.64.122.0,6.64.127.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.64.128.0,6.64.129.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.64.130.0,6.64.131.255,NA,US,Texas,Dallas,32.7767,-96.797
+6.64.132.0,6.64.132.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.64.133.0,6.64.133.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.64.134.0,6.64.135.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.64.136.0,6.64.137.255,NA,US,California,"Los Angeles",34.0522,-118.244
+6.64.138.0,6.64.141.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.64.142.0,6.64.142.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.64.143.0,6.64.143.255,NA,US,"North Carolina",Charlotte,35.2271,-80.8431
+6.64.144.0,6.64.144.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.64.145.0,6.64.145.255,NA,US,Texas,Dallas,32.7767,-96.797
+6.64.146.0,6.64.147.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.64.148.0,6.64.148.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.64.149.0,6.64.149.255,NA,US,"New Jersey",Newark,40.7357,-74.1724
+6.64.150.0,6.64.150.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.64.151.0,6.64.151.255,NA,US,"New Jersey",Newark,40.7357,-74.1724
+6.64.152.0,6.64.152.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.64.153.0,6.64.154.255,NA,US,Texas,Dallas,32.7767,-96.797
+6.64.155.0,6.64.155.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.64.156.0,6.64.156.255,NA,US,"New Jersey",Newark,40.7357,-74.1724
+6.64.157.0,6.64.157.255,NA,US,Virginia,Sterling,39.0067,-77.4291
+6.64.158.0,6.64.161.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.64.162.0,6.64.163.255,NA,US,Texas,Dallas,32.7767,-96.797
+6.64.164.0,6.64.165.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.64.166.0,6.64.166.255,NA,US,Virginia,Sterling,39.0067,-77.4291
+6.64.167.0,6.64.174.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.64.175.0,6.64.175.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.64.176.0,6.64.176.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.64.177.0,6.64.177.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.64.178.0,6.64.180.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.64.181.0,6.64.181.255,NA,US,"North Carolina",Charlotte,35.2271,-80.8431
+6.64.182.0,6.66.1.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.66.2.0,6.66.5.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.66.6.0,6.66.20.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.66.21.0,6.66.21.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.66.22.0,6.66.34.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.66.35.0,6.66.35.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.66.36.0,6.66.36.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.66.37.0,6.66.37.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.66.38.0,6.66.40.255,NA,US,Georgia,"Forest Park",33.6221,-84.3691
+6.66.41.0,6.66.63.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.66.64.0,6.66.64.255,NA,US,Illinois,Chicago,41.8781,-87.6298
+6.66.65.0,6.70.0.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.70.1.0,6.70.3.255,NA,US,Virginia,Sterling,39.0067,-77.4291
+6.70.4.0,6.72.253.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
+6.72.254.0,6.72.255.255,NA,US,California,"Los Angeles",34.0522,-118.244
+6.73.0.0,6.255.255.255,NA,US,Arizona,"Sierra Vista (Fort Huachuca)",31.5552,-110.35
