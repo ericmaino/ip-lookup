@@ -1,0 +1,49 @@
+{
+  "name": "ip-lookup",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc --build tsconfig.json",
+    "test": "mocha --recursive release/**/*Test*.js && npm run lint",
+    "build-test": "npm run build && npm run test",
+    "test-withreport": "mocha --recursive release/**/*Test*.js --reporter mocha-junit-reporter --reporter-options mochaFile=./testresults/test-results.xml",
+    "lint": "tslint -p tsconfig.json -t stylish",
+    "copy-package": "copyfiles package.json ./release/",
+    "package": "npm run copy-package && npm pack ./release"
+  },
+  "author": {
+    "url": "https://www.meeteric.net",
+    "name": "Eric Maino",
+    "email": "npm@meeteric.net"
+  },
+  "description": "An open source IP Lookup Utility.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericmaino/ip-lookup"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.103",
+    "@types/node": "^9.4.6",
+    "csv-parse": "^4.8.8",
+    "meeteric-ts": "^0.2.3",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.5",
+    "ajv": "^6.1.1",
+    "ajv-keywords": "^3.1.0",
+    "copyfiles": "^2.1.0",
+    "chai": "^4.2.0",
+    "del": "^3.0.0",
+    "lodash": "^4.17.5",
+    "mocha": "^5.2.0",
+    "mocha-junit-reporter": "^1.18.0",
+    "ncp": "^2.0.0",
+    "require-dir": "^1.0.0",
+    "ts-node": "8.8.1",
+    "tslint": "^5.20.1",
+    "tslint-microsoft-contrib": "^6.2.0",
+    "typescript": "^3.1.6"
+  }
+}

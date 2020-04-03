@@ -41,8 +41,9 @@ build/Release
 node_modules/
 jspm_packages/
 
-# TypeScript v1 declaration files
-typings/
+# Typescript
+**/typings
+**/tsd-debug.log
 
 # TypeScript cache
 *.tsbuildinfo
@@ -102,3 +103,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# config file
+config/local.json
+test/localAssets
+.data/
+
+# build output directory
+release/
